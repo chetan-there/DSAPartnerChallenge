@@ -2,7 +2,7 @@ package day7;
 
 import java.util.HashMap;
 
-public class Freaquency {
+public class Frequency {
 
     public static void main(String[] args) {
 
